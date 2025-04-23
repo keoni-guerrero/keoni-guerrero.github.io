@@ -13,7 +13,7 @@ I really liked this section of this lab for the reason that it applied to my oth
 
 * Lab 07:
 
-This lab was interesting as we had to do two two different sets of instructions to perform what was being asked of us. A function and a main set of instructions to follow. I found this lab interesting based on my partner and I’s necessity to identify whether or not we needed to use double & or double | when deciding whether or not the car was able to park on the street being tested at that point in the code. This proved fairly difficult for both of us but we were able to figure it out and this lab I felt in particular I took a lot of awareness from. Personally within this lab I was stuck in the design, compile, run cycle for a long time but it helped me get used to this process and learn more about the frustration and importance of patience while coding. 
+This lab was interesting as we had to do two two different sets of instructions to perform what was being asked of us. A function and a main set of instructions to follow. I found this lab interesting based on my partner and I’s necessity to identify whether or not we needed to use and / or symbols when deciding whether or not the car was able to park on the street being tested at that point in the code. This proved fairly difficult for both of us but we were able to figure it out and this lab I felt in particular I took a lot of awareness from. Personally within this lab I was stuck in the design, compile, run cycle for a long time but it helped me get used to this process and learn more about the frustration and importance of patience while coding. 
 
 
 * Lab 08 pt. 2:
